@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="title">Calculadora IMC</string>
+    <string name="weight_label">Seu peso em Kg</string>
+    <string name="height_label">Sua altura em cm</string>
+    <string name="button_text">CALCULAR</string>
+    <string name="your_score">Pontuação</string>
+    <string name="reset">Limpar</string>
+    <string name="share">Compartilhar</string>
+    <string name="ideal">Parabéns, seu peso está ideal!</string>
+    <string name="under_weight">Abaixo do peso</string>
+    <string name="normal_weight">Peso Normal</string>
+    <string name="over_weight">Classe I - Acima do peso</string>
+    <string name="obesity">Classe II - Obesidade</string>
+    <string name="morbid_obesity">Classe III - Obesidade Morbida</string>
+</resources>

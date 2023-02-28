@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="title">BMI Calculator</string>
+    <string name="weight_label">Your weight em Kg?</string>
+    <string name="height_label">Your height em Cm?</string>
+    <string name="button_text">CALCULATE</string>
+    <string name="your_score">Your score</string>
+    <string name="reset">Reset</string>
+    <string name="share">Share</string>
+    <string name="ideal">Congratulations, your weight is ideal!</string>
+    <string name="under_weight">Underweight</string>
+    <string name="normal_weight">Normal Weight</string>
+    <string name="over_weight">Class I - Over Weight</string>
+    <string name="obesity">Class II - Obesity</string>
+    <string name="morbid_obesity">Class III - Morbid Obesity</string>
+</resources>
